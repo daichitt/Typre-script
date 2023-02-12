@@ -1,1 +1,1 @@
-# Typre-script
+# Typre-script です
